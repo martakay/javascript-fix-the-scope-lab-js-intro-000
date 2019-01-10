@@ -1,7 +1,6 @@
 var animal = 'dog'
 
 function myAnimal() {
-  console.log("hello there=======", aninal)
   return animal
 }
 
